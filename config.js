@@ -1,0 +1,1 @@
+window.PORTFOLIO_CONFIG = {email:'okekesam01@gmail.com', github:'https://github.com/Sam-Mich/', linkedin:'https://www.linkedin.com/in/smokeke/', whatsapp:'', resume:'assets/resume.pdf', formEndpoint:'https://formsubmit.co/ajax/okekesam01@gmail.com'};

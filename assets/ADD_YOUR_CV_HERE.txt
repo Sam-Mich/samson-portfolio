@@ -1,0 +1,1 @@
+Place your real resume PDF in this folder and name it exactly resume.pdf. The Download CV buttons will then work automatically after deploying the updated folder. Do not rename the file or use a Word document.
